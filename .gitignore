@@ -1,0 +1,6 @@
+/target/
+.DS_Store
+.idea/vcs.xml
+project/.DS_Store
+project/target/.DS_Store
+src/.DS_Store
