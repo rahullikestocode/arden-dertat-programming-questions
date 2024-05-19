@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arden-dertat-programming-questions.iml" filepath="$PROJECT_DIR$/.idea/modules/arden-dertat-programming-questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/arden-dertat-programming-questions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/arden-dertat-programming-questions-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arden-dertat-programming-questions-scala.iml" filepath="$PROJECT_DIR$/.idea/modules/arden-dertat-programming-questions-scala.iml" />
     </modules>
   </component>
 </project>
